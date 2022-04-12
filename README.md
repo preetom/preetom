@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Laravel ?? PHP ?? TS ?? Vue ?? ...
+- 🌱 I’m currently learning WebTechNo.....
+- 👯 I’m looking to collaborate on any Open/Closed/Windows Opportunity.
+- 🤔 I’m looking for help with Some JS/PHP... WebStuff Ooof!!
+- 💬 Ask me about SomeThings and get to know about the Rest
+- 📫 How to reach me: Just Pull Me
 
 <!--
 **preetom/preetom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
